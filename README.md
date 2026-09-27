@@ -18,7 +18,47 @@ Fullstack-приложение для работы с данными о филь
 * 🤖 AI-генерация краткого и понятного описания фильма
 * 🔐 хранение API-ключей в переменных окружения
 
-## 🛠️ Tech Stack
+## 📸 Скриншоты
+
+### 🎬 Каталог фильмов
+
+<p align="center">
+  <img src="./public/screenshots/1.jpg" width="48%" />
+</p>
+
+### 📊 Аналитика
+
+<p align="center">
+  <img src="./public/screenshots/4.jpg" width="48%" />
+  <img src="./public/screenshots/5.jpg" width="48%" />
+</p>
+
+### 🎥 Страница фильма
+
+<p align="center">
+  <img src="./public/screenshots/2.jpg" width="48%" />
+  <img src="./public/screenshots/8.jpg" width="48%" />
+</p>
+
+### 🤖 AI-анализ сериала
+
+<p align="center">
+  <img src="./public/screenshots/10.jpg" width="48%" />
+</p>
+
+### 🔥 Популярные фильмы
+
+<p align="center">
+  <img src="./public/screenshots/3.jpg" width="48%" />
+</p>
+
+### ⭐ Фильтры поиска
+<p align="center">
+  <img src="./public/screenshots/9.jpg" width="48%" />
+  <img src="./public/screenshots/6.jpg" width="48%" />
+</p>
+
+## 🛠️ Стэк
 
 ### Frontend
 
@@ -50,7 +90,7 @@ Fullstack-приложение для работы с данными о филь
 * ESLint
 * Prettier
 
-## 🏗️ Architecture
+## 🏗️ Архитектура
 
 Проект разделён на frontend и backend.
 
